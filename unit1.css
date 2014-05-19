@@ -1,0 +1,59 @@
+#MPage1 {
+margin-left: 0px;
+margin-top: 0px;
+margin-right: 0px;
+margin-bottom: 0px;
+}
+#MPage1 #MPage1_form {
+margin-bottom: 0px;
+}
+#MPage1 #MPage1_table {
+width: 320px;
+height: 480px;
+border-width:0;
+border-collapse:separate;
+}
+#MPage1 #MPage1_table > tbody > tr > td, #MPage1 #MPage1_table > tbody > th {
+padding:0;
+vertical-align:top;
+}
+#MPage1 #MButton1_outer {
+z-index: 0;
+left: 75px;
+width: 147px;
+height: 43px;
+position: absolute;
+top: 117px;
+
+}
+#MPage1 #MButton1_outer > div{ 
+width: 147px;
+height: 43px;
+} 
+#MPage1 #MEdit1_outer {
+z-index: 1;
+left: 16px;
+width: 288px;
+height: 43px;
+position: absolute;
+top: 58px;
+
+}
+#MPage1 #MEdit1 {
+height:43px;
+}
+#MPage1 #MLabel1_outer {
+z-index: 2;
+left: 40px;
+width: 203px;
+height: 20px;
+position: absolute;
+top: 216px;
+
+}
+#MPage1 #MLabel1 {
+ font-family: Helvetica, Arial, sans-serif;
+ font-size: 16px;
+  width: 203px;
+height: 20px;
+}
